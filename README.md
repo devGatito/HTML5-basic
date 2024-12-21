@@ -1,4 +1,4 @@
-# HTML:5
+# | HTML:5
 
 HTML significa **lenguaje de marcado de hipertexto**.
 
@@ -8,7 +8,7 @@ HTML significa **lenguaje de marcado de hipertexto**.
 - Los elementos HTML le indican al navegador cómo mostrar el contenido.
 - Los elementos HTML etiquetan fragmentos de contenido como "esto es un encabezado", "esto es un párrafo", "esto es un enlace", etc.
 
-## Cuerpo HTML
+## | Cuerpo HTML
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -20,7 +20,7 @@ HTML significa **lenguaje de marcado de hipertexto**.
 </html>
 ```
 
-## Explicando la estructura
+## | Explicando la estructura
 
 - **`<!DOCTYPE html>`**: La declaración define que este documento es un documento HTML5.
 - **`<html>`**: El elemento raíz de una página HTML.
@@ -30,7 +30,7 @@ HTML significa **lenguaje de marcado de hipertexto**.
 - **`<h1>`**: Define un encabezado grande.
 - **`<p>`**: Define un párrafo.
 
-## ¿Qué es un elemento HTML?
+## | ¿Qué es un elemento HTML?
 
 Un elemento HTML se define mediante una etiqueta de inicio, algún contenido y una etiqueta final:
 
@@ -38,7 +38,7 @@ Un elemento HTML se define mediante una etiqueta de inicio, algún contenido y u
 <tagname> El contenido va aquí... </tagname>
 ```
 
-# El elemento HTML es todo, desde la etiqueta de inicio hasta la etiqueta final:
+# | El elemento HTML es todo, desde la etiqueta de inicio hasta la etiqueta final:
 
 ```html
 <h1>Mi primer encabezado</h1>
