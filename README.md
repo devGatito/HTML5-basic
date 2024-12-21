@@ -74,3 +74,8 @@ Un elemento HTML se define mediante una etiqueta de inicio, algún contenido y u
     </tr>
   </tbody>
 </table>
+
+<div style="padding: 10px; background-color: #fff4e5; border-left: 5px solid #ffa500; margin-top: 20px;">
+  <strong>Nota:</strong> Algunos elementos HTML no tienen contenido (como el elemento <code>&lt;br&gt;</code>). 
+  Estos elementos se denominan <em>elementos vacíos</em>. ¡Los elementos vacíos no tienen etiqueta de cierre!
+</div>
