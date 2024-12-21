@@ -1,8 +1,9 @@
 # HTML:5
-HTML stands for Hyper Text Markup Language
-HTML is the standard markup language for creating Web pages
-HTML describes the structure of a Web page
-HTML consists of a series of elements
-HTML elements tell the browser how to display the content
-HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+HTML significa lenguaje de marcado de hipertexto
+HTML es el lenguaje de marcado estándar para crear páginas web.
+HTML describe la estructura de una página web
+HTML consta de una serie de elementos
+Los elementos HTML le indican al navegador cómo mostrar el contenido
+Los elementos HTML etiquetan fragmentos de contenido como "esto es un encabezado", "esto es un párrafo", "esto es un enlace", etc.
 
+# DOCUMENTO HTML Simple
