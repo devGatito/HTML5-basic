@@ -48,9 +48,29 @@ Un elemento HTML se define mediante una etiqueta de inicio, algún contenido y u
 ```
 
 # | Etiqueta 
-|_________________________________________________________________| 
-| Inicio de Eiqueta | Contenido de elemento | Cierre de Etiquetas |
-|   ```<h1>```      |  Mi Cabecera          |   ```</h1>```       |
-|   ```<br>```      |  Mi Cabecera          |   ```</br> ```      |
-
-
+<table>
+  <thead>
+    <tr>
+      <th>Inicio de Etiqueta</th>
+      <th>Contenido del Elemento</th>
+      <th>Cierre de Etiqueta</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>&lt;h1&gt;</code></td>
+      <td>Mi Cabecera</td>
+      <td><code>&lt;/h1&gt;</code></td>
+    </tr>
+    <tr>
+      <td><code>&lt;p&gt;</code></td>
+      <td>Mi párrafo</td>
+      <td><code>&lt;/p&gt;</code></td>
+    </tr>
+    <tr>
+      <td><code>&lt;br&gt;</code></td>
+      <td>Ninguno</td>
+      <td>Ninguno</td>
+    </tr>
+  </tbody>
+</table>
