@@ -43,3 +43,12 @@ El elemento HTML es todo, desde la etiqueta de inicio hasta la etiqueta final:
 ```html
 <h1>Mi primer encabezado</h1>
 <p>Mi primer párrafo.</p>
+# Tabla de Etiquetas HTML
+
+```html
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+<br> <!-- none -->
+| Etiqueta                 |                                   Contenidos HTML |
+| ------------------------- | ------------------------------------------------ |
+| Element Content          | New Comment      html           | Next Page      html              |
