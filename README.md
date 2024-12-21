@@ -38,19 +38,19 @@ Un elemento HTML se define mediante una etiqueta de inicio, algún contenido y u
 <tagname> El contenido va aquí... </tagname>
 ```
 
-El elemento HTML es todo, desde la etiqueta de inicio hasta la etiqueta final:
+# El elemento HTML es todo, desde la etiqueta de inicio hasta la etiqueta final:
 
 ```html
 <h1>Mi primer encabezado</h1>
 <p>Mi primer párrafo.</p>
 # Tabla de Etiquetas HTML
 
-```html
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-<br> <!-- none -->
-# | Etiqueta                 |                                   Contenidos HTML |
-| ------------------------- | ------------------------------------------------ |
+```
+
+# | Etiqueta 
+|_________________________________________________________________| 
 | Inicio de Eiqueta | Contenido de elemento | Cierre de Etiquetas |
-|   ```<h1>```      |  Mi Cabecera          |    ```</h1>```      |
+|   ```<h1>```      |  Mi Cabecera          |   ```</h1>```       |
+|   ```<br>```      |  Mi Cabecera          |   ```</br> ```      |
+
 
