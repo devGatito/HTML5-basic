@@ -9,6 +9,7 @@ HTML significa **lenguaje de marcado de hipertexto**.
 - Los elementos HTML etiquetan fragmentos de contenido como "esto es un encabezado", "esto es un párrafo", "esto es un enlace", etc.
 
 ## | Cuerpo HTML
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -44,10 +45,10 @@ Un elemento HTML se define mediante una etiqueta de inicio, algún contenido y u
 <h1>Mi primer encabezado</h1>
 <p>Mi primer párrafo.</p>
 # Tabla de Etiquetas HTML
-
 ```
 
-# | Etiqueta 
+# | Etiqueta
+
 <table>
   <thead>
     <tr>
@@ -75,14 +76,30 @@ Un elemento HTML se define mediante una etiqueta de inicio, algún contenido y u
   </tbody>
 </table>
 
+<strong>Nota:</strong> Algunos elementos HTML no tienen contenido (como el elemento <code>&lt;br&gt;</code>).
+Estos elementos se denominan <em>elementos vacíos</em>. ¡Los elementos vacíos no tienen etiqueta de cierre!
 
-  <strong>Nota:</strong> Algunos elementos HTML no tienen contenido (como el elemento <code>&lt;br&gt;</code>). 
-  Estos elementos se denominan <em>elementos vacíos</em>. ¡Los elementos vacíos no tienen etiqueta de cierre!
+<strong>Navegadores web El propósito de un navegador web </strong> (Chrome, Edge, Firefox, Safari) <strong>es leer documentos HTML y mostrarlos correctamente.</strong>
 
- <strong>Navegadores web El propósito de un navegador web </strong> (Chrome, Edge, Firefox, Safari) <strong>es leer documentos HTML y mostrarlos correctamente.</strong>
+# Documentos HTML
 
- # Documentos HTML 
- Los encabezados HTML se definen con las etiquetas - **` <h1> a <h6>. `**
+Los encabezados HTML se definen con las etiquetas - **`<h1> a <h6>.`**
 
-- **` <h1>define el encabezado más importante</h1> `**
+- **`<h1>define el encabezado más importante</h1>`**
 <h1>Soy un Encabezado </h1>
+
+- **`<h2>soy  el segundo encabezado importante</h2>`**
+<h2>This is heading 2</h2>
+
+- **`<h3>soy  el tercer encabezado importante</h3>`**
+<h3>This is heading 3</h3>
+
+- **`<h4>soy  el cuarto encabezado importante</h4>`**
+<h4>This is heading 4</h4>
+
+- **`<h5>soy  el quinto encabezado importante</h5>`**
+<h5>This is heading 5</h5>
+
+- **`<h5>soy  el sexto encabezado importante</h5>`**
+<h5>This is heading 6</h5>
+
