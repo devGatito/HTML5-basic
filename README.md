@@ -103,3 +103,6 @@ Los encabezados HTML se definen con las etiquetas - **`<h1> a <h6>.`**
 - **`<h5>soy  el sexto encabezado importante</h5>`**
 <h5>This is heading 6</h5>
 
+# Los parrafos se definen asi
+
+- **`` Los párrafos HTML se definen con la <p>etiqueta: ``**
