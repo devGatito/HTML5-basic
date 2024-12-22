@@ -85,3 +85,8 @@ Un elemento HTML se define mediante una etiqueta de inicio, algún contenido y u
  Los encabezados HTML se definen con las etiquetas - **` <h1> a <h6>. `**
 
 <h1>define el encabezado más importante. <h6>define el encabezado menos importante: 
+```
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+```
