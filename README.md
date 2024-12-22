@@ -84,5 +84,5 @@ Un elemento HTML se define mediante una etiqueta de inicio, algún contenido y u
  # Documentos HTML 
 - **`<!DOCTYPE html>`**: La declaración define que este documento es un documento HTML5.
 
- Los encabezados HTML se definen con las etiquetas <h1>to <h6>.
+ Los encabezados HTML se definen con las etiquetas ```<h1>to <h6>.```
 <h1>define el encabezado más importante. <h6>define el encabezado menos importante: 
