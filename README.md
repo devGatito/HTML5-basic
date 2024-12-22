@@ -78,3 +78,5 @@ Un elemento HTML se define mediante una etiqueta de inicio, algún contenido y u
 
   <strong>Nota:</strong> Algunos elementos HTML no tienen contenido (como el elemento <code>&lt;br&gt;</code>). 
   Estos elementos se denominan <em>elementos vacíos</em>. ¡Los elementos vacíos no tienen etiqueta de cierre!
+
+*** Navegadores web El propósito de un navegador web (Chrome, Edge, Firefox, Safari) es leer documentos HTML y mostrarlos correctamente. ***
