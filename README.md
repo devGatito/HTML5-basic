@@ -80,3 +80,9 @@ Un elemento HTML se define mediante una etiqueta de inicio, algún contenido y u
   Estos elementos se denominan <em>elementos vacíos</em>. ¡Los elementos vacíos no tienen etiqueta de cierre!
 
  <strong>Navegadores web El propósito de un navegador web </strong> (Chrome, Edge, Firefox, Safari) <strong>es leer documentos HTML y mostrarlos correctamente.</strong>
+
+ # Documentos HTML 
+- **`<!DOCTYPE html>`**: La declaración define que este documento es un documento HTML5.
+
+ Los encabezados HTML se definen con las etiquetas <h1>to <h6>.
+<h1>define el encabezado más importante. <h6>define el encabezado menos importante: 
