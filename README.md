@@ -368,5 +368,9 @@ Ejemplo
 
 <strong>Nota:</strong>Utilice siempre atributos en minúscula. tambien
 <strong>Siemre entre comillas  
-`<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>`
+`<a href="https://google.com">Visit our HTML tutorial</a>`
 </strong>
+
+# Encabezados más grandes
+Cada encabezado HTML tiene un tamaño predeterminado. Sin embargo, puedes especificar el tamaño de cualquier encabezado con el style atributo , utilizando la propiedad CSS font-size:
+  `<h1 style="font-size: 64px;">Encabezado Grande</h1>`
