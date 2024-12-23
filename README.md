@@ -117,5 +117,9 @@ Aprenderá más sobre los atributos en un capítulo posterior.
 # Imágenes HTML
 Las imágenes HTML se definen con la ```<img>``` etiqueta.
 
-El archivo de origen ```(src)```, el texto alternativo ```(alt)```, ```width``` y ```height``` se proporcionan como atributos:
+El archivo de origen ```(src)```, el texto alternativo ```(alt)```, ```width``` y ```height``` se proporcionan como atributos
+
+# Ver codigo fuente
+
+Simplemente precionando el codigo ```ctrl + u ```
 
