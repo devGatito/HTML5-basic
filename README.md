@@ -378,5 +378,12 @@ Cada encabezado HTML tiene un tamaño predeterminado. Sin embargo, puedes especi
 # Reglas horizontales HTML
 La `<hr>`etiqueta define un salto temático en una página HTML y generalmente se muestra como una regla horizontal.
 
+elemento se utiliza para separar contenido (o definir un cambio) en una página HTML.
+
 <hr>
-elemento se utiliza para separar contenido (o definir un cambio) en una página HTML:
+
+# Saltos de Linea.
+
+El `<br>` elemento HTML define un salto de línea.
+
+Úselo <br>si desea un salto de línea (una nueva línea) sin comenzar un nuevo párrafo
