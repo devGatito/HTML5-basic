@@ -109,5 +109,8 @@ Los encabezados HTML se definen con las etiquetas - **`<h1> a <h6>.`**
 
  # La etiquetas asi
  **`` <a href="https://google.com">This is a link</a> ``**
- <a href="https://google.com">Puedes clickearme</a> 
+ <a href="https://google.com">Puedes presionarme</a> 
+El destino del enlace se especifica en el ```href``` atributo. 
+Los atributos se utilizan para proporcionar información adicional sobre los elementos HTML.
+Aprenderá más sobre los atributos en un capítulo posterior.
 
