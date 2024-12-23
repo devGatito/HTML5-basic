@@ -460,14 +460,14 @@ Elementos de formato HTML
 Los elementos de formato fueron diseñados para mostrar tipos especiales de texto:
 
 - **`<b>`**- Texto en negrita
-`<strong>`- Texto importante
-`<i>`- Texto en cursiva
-`<em>`- Texto destacado
-`<mark>`- Texto marcado
-`<small>`- Texto más pequeño
-`<del>`- Texto eliminado
-`<ins>`- Texto insertado
-`<sub>`- Texto en subíndice
-`<sup>`- Texto en superíndice
+- **`<strong>`**- Texto importante
+- **`<i>`**- Texto en cursiva
+- **`<em>`**- Texto destacado
+- **`<mark>`**- Texto marcado
+- **`<small>`**- Texto más pequeño
+- **`<del>`** - Texto eliminado
+- **`<ins>`**- Texto insertado
+- **`<sub>`**- Texto en subíndice
+- **`<sup>`** - Texto en superíndice
 
 
