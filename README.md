@@ -157,6 +157,7 @@ tambien otra forma es con xml es asi
 ```
 
 # ISO html Lenguaje
+
 <table>
   <thead>
     <tr>
@@ -360,11 +361,12 @@ tambien otra forma es con xml es asi
 </table>
 
 # Tooltip
+
 El título Atributo
 El `title` atributo define información adicional sobre un elemento.
 El valor del atributo de título se mostrará como información sobre herramientas cuando pase el mouse sobre el elemento:
 Ejemplo
-   ` <p title="Soy un tooltip">Esto es una etiqueta</p>`
+` <p title="Soy un tooltip">Esto es una etiqueta</p>`
 
 <strong>Nota:</strong>Utilice siempre atributos en minúscula. tambien
 <strong>Siemre entre comillas  
@@ -372,10 +374,12 @@ Ejemplo
 </strong>
 
 # Encabezados más grandes
+
 Cada encabezado HTML tiene un tamaño predeterminado. Sin embargo, puedes especificar el tamaño de cualquier encabezado con el style atributo , utilizando la propiedad CSS font-size:
-  `<h1 style="font-size: 64px;">Encabezado Grande</h1>`
+`<h1 style="font-size: 64px;">Encabezado Grande</h1>`
 
 # Reglas horizontales HTML
+
 La `<hr>`etiqueta define un salto temático en una página HTML y generalmente se muestra como una regla horizontal.
 
 elemento se utiliza para separar contenido (o definir un cambio) en una página HTML.
@@ -398,6 +402,7 @@ El atributo HTML styletiene la siguiente sintaxis:
 `<tagname style="property:value;">`
 
 # Cambiar color de Fondo.
+
 La propiedad `background-color` propiedad CSS define el color de fondo de un elemento HTML.
 Establezca el color de fondo de una página en azul pálido:
 
@@ -409,5 +414,22 @@ Establezca el color de fondo de una página en azul pálido:
 </body>
 ```
 
+# Color de Texto
 
+El `color` propiedad CSS define el color del texto de un elemento HTML:
 
+```
+<p style="color: yellowgreen;">cambio de color</p>
+    <h1 style="color: coral;" >Esto es una cabecera</h1>
+    <p style="color: burlywood;">Esto es un parrafo</p>
+
+```
+
+# Fuentes
+
+La propiedad CSS `font-family` define la fuente que se utilizará para un elemento HTML:
+
+```
+ <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Franklin</h1>
+    <p style="font-family: Arial, Helvetica, sans-serif;">Arial</p>
+```
