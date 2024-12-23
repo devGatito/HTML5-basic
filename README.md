@@ -452,3 +452,22 @@ La `text-align` propiedad CSS define la alineación horizontal del texto para un
   <h1 style="text-align: center;">Texto Centrado</h1>
   <p style="text-align: center;">Texto Centrado</p>
 ```
+
+# Formatos de texto en HTML
+HTML contiene varios elementos para definir texto con un significado especial.
+
+Elementos de formato HTML
+Los elementos de formato fueron diseñados para mostrar tipos especiales de texto:
+
+`<b>`- Texto en negrita
+`<strong>`- Texto importante
+`<i>`- Texto en cursiva
+`<em>`- Texto destacado
+`<mark>`- Texto marcado
+`<small>`- Texto más pequeño
+`<del>`- Texto eliminado
+`<ins>`- Texto insertado
+`<sub>`- Texto en subíndice
+`<sup>`- Texto en superíndice
+
+
