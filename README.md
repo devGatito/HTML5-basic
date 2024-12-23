@@ -401,13 +401,13 @@ El atributo HTML styletiene la siguiente sintaxis:
 La propiedad `background-color` propiedad CSS define el color de fondo de un elemento HTML.
 Establezca el color de fondo de una página en azul pálido:
 
-`<body style="background-color:powderblue;">
+```<body style="background-color:powderblue;">
 
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
 
 </body>
-`
+```
 
 
 
