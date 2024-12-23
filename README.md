@@ -374,3 +374,8 @@ Ejemplo
 # Encabezados más grandes
 Cada encabezado HTML tiene un tamaño predeterminado. Sin embargo, puedes especificar el tamaño de cualquier encabezado con el style atributo , utilizando la propiedad CSS font-size:
   `<h1 style="font-size: 64px;">Encabezado Grande</h1>`
+
+# Reglas horizontales HTML
+La <hr>etiqueta define un salto temático en una página HTML y generalmente se muestra como una regla horizontal.
+
+El <hr>elemento se utiliza para separar contenido (o definir un cambio) en una página HTML:
