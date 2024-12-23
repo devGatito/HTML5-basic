@@ -165,12 +165,12 @@ tambien otra forma es con xml es asi
   </thead>
   <tbody>
     <tr>
-      <td><code>Abkhazian</code></td>
-      <td><code>ab</code></td>
+      <td>Abkhazian</td>
+      <td>ab</td>
     </tr>
     <tr>
-      <td><code>p</code></td>
-      <td><code>w</code></td>
+    <td>Abkhazian</td>
+      <td>ab</td>
     </tr>
   </tbody>
 </table>
