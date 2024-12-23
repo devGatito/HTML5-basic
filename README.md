@@ -172,9 +172,5 @@ tambien otra forma es con xml es asi
       <td><code>&lt;p&gt;</code></td>
       <td><code>&lt;/p&gt;</code></td>
     </tr>
-    <tr>
-      <td><code>&lt;br&gt;</code></td>
-      <td>Ninguno</td>
-    </tr>
   </tbody>
 </table>
