@@ -128,4 +128,5 @@ Simplemente precionando el codigo `ctrl + u ` o haga clic derecho en la página 
 # Inspeccionar un elemento HTML:
 Haz clic derecho en un elemento (o en un área en blanco) y elige ```"Inspeccionar"``` para ver de qué están compuestos los elementos (verás tanto el HTML como el CSS). También puedes editar el HTML o el CSS sobre la marcha en el panel Elementos o Estilos que se abre.
 
-
+# Cambiar color de etiqueta directamente desde HTML, con css:
+<p style='color:red'></p>
