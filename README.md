@@ -363,3 +363,5 @@ tambien otra forma es con xml es asi
 El título Atributo
 El `title` atributo define información adicional sobre un elemento.
 El valor del atributo de título se mostrará como información sobre herramientas cuando pase el mouse sobre el elemento:
+Ejemplo
+   ` <p title="Soy un tooltip">Esto es una etiqueta</p>`
