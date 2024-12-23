@@ -387,3 +387,27 @@ elemento se utiliza para separar contenido (o definir un cambio) en una página 
 El `<br>` elemento HTML define un salto de línea.
 
 Úselo <br>si desea un salto de línea (una nueva línea) sin comenzar un nuevo párrafo
+
+# Estilos HTML
+
+El atributo HTML `style` se utiliza para agregar estilos a un elemento, como color, fuente, tamaño y más.
+
+La configuración del estilo de un elemento HTML se puede realizar con el styleatributo .
+El atributo HTML styletiene la siguiente sintaxis:
+
+`<tagname style="property:value;">`
+
+# Cambiar color de Fondo.
+La propiedad `background-color` propiedad CSS define el color de fondo de un elemento HTML.
+Establezca el color de fondo de una página en azul pálido:
+
+`<body style="background-color:powderblue;">
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+`
+
+
+
