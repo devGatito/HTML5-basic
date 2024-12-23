@@ -433,3 +433,11 @@ La propiedad CSS `font-family` define la fuente que se utilizará para un elemen
  <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Franklin</h1>
     <p style="font-family: Arial, Helvetica, sans-serif;">Arial</p>
 ```
+# Tamaño del texto
+
+La `font-size` propiedad CSS define el tamaño del texto de un elemento HTML:
+<!--Font Size-->
+```
+    <h1 style="font-size: 300%;">test</h1>
+    <p style="font-size: 200%;">test 2</p>
+```
