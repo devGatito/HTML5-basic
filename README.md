@@ -114,3 +114,8 @@ El destino del enlace se especifica en el ```href``` atributo.
 Los atributos se utilizan para proporcionar información adicional sobre los elementos HTML.
 Aprenderá más sobre los atributos en un capítulo posterior.
 
+# Imágenes HTML
+Las imágenes HTML se definen con la ```<img>``` etiqueta.
+
+El archivo de origen ```(src)```, el texto alternativo ```(alt)```, ```width``` y ```height``` se proporcionan como atributos:
+
