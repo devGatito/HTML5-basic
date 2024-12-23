@@ -459,7 +459,7 @@ HTML contiene varios elementos para definir texto con un significado especial.
 Elementos de formato HTML
 Los elementos de formato fueron diseñados para mostrar tipos especiales de texto:
 
-`<b>`- Texto en negrita
+- **`<b>`**- Texto en negrita
 `<strong>`- Texto importante
 `<i>`- Texto en cursiva
 `<em>`- Texto destacado
