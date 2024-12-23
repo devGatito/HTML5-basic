@@ -132,12 +132,20 @@ Haz clic derecho en un elemento (o en un área en blanco) y elige ```"Inspeccion
 ```<p style='color:red'></p>```
 
 # Como cambiar de idioma tu pagina web
+
+Siempre debe incluir el langatributo dentro de la ```<html>```etiqueta para declarar el idioma de la página web. Esto tiene como objetivo ayudar a los motores de búsqueda y navegadores.
+
 ```
-<!DOCTYPE html>
 <html lang="en">
-<body>
-...
-</body>
-</html>
 ```
 
+
+También se pueden añadir códigos de país al código de idioma en el lang atributo. De esta forma, los dos primeros caracteres definen el idioma de la página HTML y los dos últimos, el país.
+
+El siguiente ejemplo especifica inglés como idioma y Estados Unidos como país:
+
+
+```
+<html lang="en-US">
+
+```
