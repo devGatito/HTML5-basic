@@ -124,3 +124,8 @@ El archivo de origen `(src)`, el texto alternativo `(alt)`, `width` y `height` s
 # Ver codigo fuente
 
 Simplemente precionando el codigo `ctrl + u ` o haga clic derecho en la página y seleccione "Ver código fuente de la página". Se abrirá una nueva pestaña que contiene el código fuente HTML de la página.
+
+# Inspeccionar un elemento HTML:
+Haz clic derecho en un elemento (o en un área en blanco) y elige ```"Inspeccionar"``` para ver de qué están compuestos los elementos (verás tanto el HTML como el CSS). También puedes editar el HTML o el CSS sobre la marcha en el panel Elementos o Estilos que se abre.
+
+
