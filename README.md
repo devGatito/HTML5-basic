@@ -147,12 +147,11 @@ El siguiente ejemplo especifica inglés como idioma y Estados Unidos como país:
 
 ```
 <html lang="en-US">
-
+```
 tambien otra forma es con xml es asi
+```
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-...
 </html>
-
 ```
 
 
