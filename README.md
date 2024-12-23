@@ -130,3 +130,14 @@ Haz clic derecho en un elemento (o en un área en blanco) y elige ```"Inspeccion
 
 # Cambiar color de etiqueta directamente desde HTML, con css:
 ```<p style='color:red'></p>```
+
+# Como cambiar de idioma tu pagina web
+```
+<!DOCTYPE html>
+<html lang="en">
+<body>
+...
+</body>
+</html>
+```
+
