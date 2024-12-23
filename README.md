@@ -155,13 +155,12 @@ tambien otra forma es con xml es asi
 ```
 
 
-
+# ISO html Lenguaje
 <table>
   <thead>
     <tr>
-      <th>Inicio de Etiqueta</th>
-      <th>Contenido del Elemento</th>
-      <th>Cierre de Etiqueta</th>
+      <th>Lenguaje</th>
+      <th>ISO CODE</th>
     </tr>
   </thead>
   <tbody>
