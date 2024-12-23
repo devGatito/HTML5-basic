@@ -166,17 +166,14 @@ tambien otra forma es con xml es asi
   <tbody>
     <tr>
       <td><code>&lt;h1&gt;</code></td>
-      <td>Mi Cabecera</td>
       <td><code>&lt;/h1&gt;</code></td>
     </tr>
     <tr>
       <td><code>&lt;p&gt;</code></td>
-      <td>Mi párrafo</td>
       <td><code>&lt;/p&gt;</code></td>
     </tr>
     <tr>
       <td><code>&lt;br&gt;</code></td>
-      <td>Ninguno</td>
       <td>Ninguno</td>
     </tr>
   </tbody>
