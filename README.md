@@ -460,6 +460,10 @@ Elementos de formato HTML
 Los elementos de formato fueron diseñados para mostrar tipos especiales de texto:
 
 - **`<b>`**- Texto en negrita
+```
+  <b>test</b>
+  
+```
 - **`<strong>`**- Texto importante
 - **`<i>`**- Texto en cursiva
 - **`<em>`**- Texto destacado
