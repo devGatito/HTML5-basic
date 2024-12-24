@@ -474,8 +474,9 @@ Los elementos de formato fueron diseñados para mostrar tipos especiales de text
   <i>test</i>
 - **`<em>`**- Texto destacado
   <em>test</em>
-- **`<mark>`**- Texto marcado
+- **`<mark>`** - Texto marcado
 <mark>test</mark>
+
 - **`<small>`**- Texto más pequeño
   <small>test</small>
 - **`<del>`** - Texto eliminado
