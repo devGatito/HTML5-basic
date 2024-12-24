@@ -448,30 +448,37 @@ La `font-size` propiedad CSS define el tamaño del texto de un elemento HTML:
 # Alineación de texto
 
 La `text-align` propiedad CSS define la alineación horizontal del texto para un elemento HTML:
+
 ```
   <h1 style="text-align: center;">Texto Centrado</h1>
   <p style="text-align: center;">Texto Centrado</p>
 ```
 
 # Formatos de texto en HTML
+
 HTML contiene varios elementos para definir texto con un significado especial.
 
 Elementos de formato HTML
 Los elementos de formato fueron diseñados para mostrar tipos especiales de texto:
 
 - **`<b>`**- Texto en negrita
+
 ```
   <b>test</b>
-  
+
 ```
+
 - **`<strong>`**- Texto importante
+  `<strong>test</strong>`
 - **`<i>`**- Texto en cursiva
+  `<i>test</i>`
 - **`<em>`**- Texto destacado
+  `<em>test</em>`
 - **`<mark>`**- Texto marcado
+`<mark>test</mark>`
 - **`<small>`**- Texto más pequeño
+  `<small>test</small>`
 - **`<del>`** - Texto eliminado
 - **`<ins>`**- Texto insertado
 - **`<sub>`**- Texto en subíndice
 - **`<sup>`** - Texto en superíndice
-
-
