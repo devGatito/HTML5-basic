@@ -469,16 +469,17 @@ Los elementos de formato fueron diseñados para mostrar tipos especiales de text
 ```
 
 - **`<strong>`**- Texto importante
-  `<strong>test</strong>`
+  <strong>test</strong>
 - **`<i>`**- Texto en cursiva
-  `<i>test</i>`
+  <i>test</i>
 - **`<em>`**- Texto destacado
-  `<em>test</em>`
+  <em>test</em>
 - **`<mark>`**- Texto marcado
-`<mark>test</mark>`
+<mark>test</mark>
 - **`<small>`**- Texto más pequeño
-  `<small>test</small>`
+  <small>test</small>
 - **`<del>`** - Texto eliminado
 - **`<ins>`**- Texto insertado
 - **`<sub>`**- Texto en subíndice
 - **`<sup>`** - Texto en superíndice
+
